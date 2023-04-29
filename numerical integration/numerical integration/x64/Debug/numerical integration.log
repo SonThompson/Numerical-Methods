@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\SonTi\source\repos\numerical integration\numerical integration\main.cpp(36,75): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\SonTi\source\repos\numerical integration\numerical integration\main.cpp(65,75): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  numerical integration.vcxproj -> C:\Users\SonTi\source\repos\numerical integration\x64\Debug\numerical integration.exe
