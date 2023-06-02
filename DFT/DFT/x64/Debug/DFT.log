@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\SonTi\source\repos\DFT\DFT\Source.cpp(12,21): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\SonTi\source\repos\DFT\DFT\Source.cpp(35,21): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\SonTi\source\repos\DFT\DFT\Source.cpp(63,21): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\SonTi\source\repos\DFT\DFT\Source.cpp(92,21): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\SonTi\source\repos\DFT\DFT\Source.cpp(111,21): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  DFT.vcxproj -> C:\Users\SonTi\source\repos\DFT\x64\Debug\DFT.exe
